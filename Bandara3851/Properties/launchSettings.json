@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bandara3851": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}
